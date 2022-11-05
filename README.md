@@ -1,2 +1,2 @@
 # html-learning-course
-This folder contains the very begining of my learning practises code.
+This folder contains the all the initial code i practised while learning basic html and css.
